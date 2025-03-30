@@ -1,0 +1,301 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Front-end  Mini Project.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Front-end  Mini Project.6rvrv3zvb7.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\css\\about\\about.css",
+      "PackagePath": "staticwebassets\\assets\\css\\about\\about.css"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\css\\blog\\blog.css",
+      "PackagePath": "staticwebassets\\assets\\css\\blog\\blog.css"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\css\\bootstap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\css\\home\\home.css",
+      "PackagePath": "staticwebassets\\assets\\css\\home\\home.css"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\css\\shop\\shop.css",
+      "PackagePath": "staticwebassets\\assets\\css\\shop\\shop.css"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\img\\about\\Heroas.png",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\Heroas.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\img\\about\\Raka.png",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\Raka.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\img\\about\\Sandela.png",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\Sandela.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\img\\about\\Valona.png",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\Valona.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\img\\about\\abot 2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\abot 2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\img\\about\\about 4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\about 4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\img\\about\\about3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\about3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\img\\about\\cards.png",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\cards.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\img\\about\\common_bg.03a52b45.png",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\common_bg.03a52b45.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\img\\about\\icon_about1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\icon_about1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\img\\about\\logo about.png",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\logo about.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\img\\about\\logo white.png",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\logo white.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\img\\about\\t-shirt.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\t-shirt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\img\\blog\\picture1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\picture1.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\img\\blog\\picture2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\picture2.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\img\\blog\\picture3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\picture3.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\img\\blog\\picture4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\picture4.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\img\\blog\\picture5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\picture5.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\img\\blog\\picture6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\picture6.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\img\\home\\arrivals.woman.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home\\arrivals.woman.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\img\\home\\background boy.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home\\background boy.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\img\\home\\background.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home\\background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\img\\home\\backround girlsSSS.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home\\backround girlsSSS.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\img\\home\\bag.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home\\bag.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\img\\home\\card 1.1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home\\card 1.1.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\img\\home\\card 1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home\\card 1.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\img\\home\\card 2.2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home\\card 2.2.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\img\\home\\card 2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home\\card 2.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\img\\home\\card 3.3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home\\card 3.3.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\img\\home\\card 4.4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home\\card 4.4.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\img\\home\\card 4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home\\card 4.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\img\\home\\card 5.5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home\\card 5.5.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\img\\home\\card 5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home\\card 5.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\img\\home\\card 6.6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home\\card 6.6.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\img\\home\\card 6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home\\card 6.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\img\\home\\card 7.7.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home\\card 7.7.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\img\\home\\card 7.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home\\card 7.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\img\\home\\card 8.8.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home\\card 8.8.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\img\\home\\card 8.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home\\card 8.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\img\\home\\card3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home\\card3.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\img\\home\\cardss.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home\\cardss.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\img\\home\\girl.img",
+      "PackagePath": "staticwebassets\\assets\\img\\home\\girl.img"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\img\\home\\girl.img.3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home\\girl.img.3.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\img\\home\\girl.img2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home\\girl.img2.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\img\\home\\hot.boy.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home\\hot.boy.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\img\\home\\icon x.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home\\icon x.svg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\img\\home\\instagram girl 2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home\\instagram girl 2.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\img\\home\\instagram girl 3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home\\instagram girl 3.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\img\\home\\instagram girl 4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home\\instagram girl 4.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\img\\home\\instagram girl 5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home\\instagram girl 5.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\img\\home\\istagram . girl 1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home\\istagram . girl 1.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\img\\home\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\img\\home\\outerwear.woman.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home\\outerwear.woman.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\img\\home\\qiz 2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home\\qiz 2.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\img\\home\\qiz.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home\\qiz.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\img\\home\\search icon.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home\\search icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\img\\home\\sidebarlogo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home\\sidebarlogo.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\img\\home\\summer.woman.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home\\summer.woman.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\img\\shop\\search.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop\\search.svg"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\js\\about\\about.js",
+      "PackagePath": "staticwebassets\\assets\\js\\about\\about.js"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\js\\blog\\blog.js",
+      "PackagePath": "staticwebassets\\assets\\js\\blog\\blog.js"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\js\\home\\home.js",
+      "PackagePath": "staticwebassets\\assets\\js\\home\\home.js"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Front-end  Mini Project\\Front-end  Mini Project\\wwwroot\\assets\\js\\shop\\shop.js",
+      "PackagePath": "staticwebassets\\assets\\js\\shop\\shop.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Front-end  Mini Project.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Front-end  Mini Project.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Front-end  Mini Project.props",
+      "PackagePath": "build\\Front-end  Mini Project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Front-end  Mini Project.props",
+      "PackagePath": "buildMultiTargeting\\Front-end  Mini Project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Front-end  Mini Project.props",
+      "PackagePath": "buildTransitive\\Front-end  Mini Project.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

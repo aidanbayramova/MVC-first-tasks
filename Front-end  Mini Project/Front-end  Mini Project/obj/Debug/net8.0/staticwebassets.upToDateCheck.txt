@@ -1,0 +1,68 @@
+wwwroot\assets\css\about\about.css
+wwwroot\assets\css\blog\blog.css
+wwwroot\assets\css\bootstap.min.css
+wwwroot\assets\css\home\home.css
+wwwroot\assets\css\shop\shop.css
+wwwroot\assets\img\about\abot 2.jpg
+wwwroot\assets\img\about\about 4.jpg
+wwwroot\assets\img\about\about3.jpg
+wwwroot\assets\img\about\cards.png
+wwwroot\assets\img\about\common_bg.03a52b45.png
+wwwroot\assets\img\about\Heroas.png
+wwwroot\assets\img\about\icon_about1.jpg
+wwwroot\assets\img\about\logo about.png
+wwwroot\assets\img\about\logo white.png
+wwwroot\assets\img\about\Raka.png
+wwwroot\assets\img\about\Sandela.png
+wwwroot\assets\img\about\t-shirt.jpg
+wwwroot\assets\img\about\Valona.png
+wwwroot\assets\img\blog\picture1.png
+wwwroot\assets\img\blog\picture2.png
+wwwroot\assets\img\blog\picture3.png
+wwwroot\assets\img\blog\picture4.png
+wwwroot\assets\img\blog\picture5.png
+wwwroot\assets\img\blog\picture6.png
+wwwroot\assets\img\home\arrivals.woman.png
+wwwroot\assets\img\home\background boy.png
+wwwroot\assets\img\home\background.jpg
+wwwroot\assets\img\home\backround girlsSSS.png
+wwwroot\assets\img\home\bag.png
+wwwroot\assets\img\home\card 1.1.png
+wwwroot\assets\img\home\card 1.png
+wwwroot\assets\img\home\card 2.2.png
+wwwroot\assets\img\home\card 2.png
+wwwroot\assets\img\home\card 3.3.png
+wwwroot\assets\img\home\card 4.4.png
+wwwroot\assets\img\home\card 4.png
+wwwroot\assets\img\home\card 5.5.png
+wwwroot\assets\img\home\card 5.png
+wwwroot\assets\img\home\card 6.6.png
+wwwroot\assets\img\home\card 6.png
+wwwroot\assets\img\home\card 7.7.png
+wwwroot\assets\img\home\card 7.png
+wwwroot\assets\img\home\card 8.8.png
+wwwroot\assets\img\home\card 8.png
+wwwroot\assets\img\home\card3.png
+wwwroot\assets\img\home\cardss.png
+wwwroot\assets\img\home\girl.img
+wwwroot\assets\img\home\girl.img.3.png
+wwwroot\assets\img\home\girl.img2.png
+wwwroot\assets\img\home\hot.boy.png
+wwwroot\assets\img\home\icon x.svg
+wwwroot\assets\img\home\instagram girl 2.png
+wwwroot\assets\img\home\instagram girl 3.png
+wwwroot\assets\img\home\instagram girl 4.png
+wwwroot\assets\img\home\instagram girl 5.png
+wwwroot\assets\img\home\istagram . girl 1.png
+wwwroot\assets\img\home\logo.png
+wwwroot\assets\img\home\outerwear.woman.png
+wwwroot\assets\img\home\qiz 2.png
+wwwroot\assets\img\home\qiz.png
+wwwroot\assets\img\home\search icon.svg
+wwwroot\assets\img\home\sidebarlogo.png
+wwwroot\assets\img\home\summer.woman.png
+wwwroot\assets\img\shop\search.svg
+wwwroot\assets\js\about\about.js
+wwwroot\assets\js\blog\blog.js
+wwwroot\assets\js\home\home.js
+wwwroot\assets\js\shop\shop.js

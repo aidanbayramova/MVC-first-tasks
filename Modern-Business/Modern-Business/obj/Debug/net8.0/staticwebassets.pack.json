@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Modern-Business\\Modern-Business\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Modern-Business.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Modern-Business.bbic295jcx.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Modern-Business\\Modern-Business\\wwwroot\\assets\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Modern-Business\\Modern-Business\\wwwroot\\assets\\profile.png",
+      "PackagePath": "staticwebassets\\assets\\profile.png"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Modern-Business\\Modern-Business\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\MVC first task\\Modern-Business\\Modern-Business\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Modern-Business.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Modern-Business.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Modern-Business.props",
+      "PackagePath": "build\\Modern-Business.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Modern-Business.props",
+      "PackagePath": "buildMultiTargeting\\Modern-Business.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Modern-Business.props",
+      "PackagePath": "buildTransitive\\Modern-Business.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

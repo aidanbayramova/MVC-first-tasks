@@ -1,0 +1,488 @@
+﻿@{
+    ViewData["Title"] = "Shop Page";
+}
+@section css {
+    <link rel="stylesheet" href="~/assets/css/shop/shop.css">
+}
+<main>
+
+    <section id="shop-banner">
+        <div class="shop-banner-img">
+            <img src="~/assets/img/about/common_bg.03a52b45.png" alt="">
+
+            <div class="shop-banner-text">
+                <h3>Shop</h3>
+                <ul>
+                    <li><a href="./home.html">Home</a></li>
+                    <li><span class="slash">/</span></li>
+                    <li class="active">Shop</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+
+    <section id="shop-main-area" class="ptb-100">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-3">
+                    <div class="shop-sidebar-wrapper Left">
+                        <div class="shop-search">
+                            <input type="text" placeholder="Search">
+                            <div class="search-icn">
+                                <i class="ri-search-line"></i>
+                            </div>
+                        </div>
+                        <div class="shop-sidebar-boxed">
+                            <h4>Product Categories</h4>
+                            <form action="#!">
+                                <label class="custom-boxed">
+                                    Woman Dresses
+                                    <input type="radio" checked="checked" name="radio">
+                                    <span class="checkmark"></span>
+                                </label>
+                                <label class="custom-boxed">
+                                    T-shirts
+                                    <input type="radio" name="radio">
+                                    <span class="checkmark"></span>
+                                </label>
+                                <label class="custom-boxed">
+                                    Fashion
+                                    <input type="radio" name="radio">
+                                    <span class="checkmark"></span>
+                                </label>
+                                <label class="custom-boxed">
+                                    Bags
+                                    <input type="radio" name="radio">
+                                    <span class="checkmark"></span>
+                                </label>
+                                <label class="custom-boxed">
+                                    Jackets
+                                    <input type="radio" name="radio">
+                                    <span class="checkmark"></span>
+                                </label>
+                                <label class="custom-boxed">
+                                    Shoes
+                                    <input type="radio" name="radio">
+                                    <span class="checkmark"></span>
+                                </label>
+                                <label class="custom-boxed">
+                                    Jeans
+                                    <input type="radio" name="radio">
+                                    <span class="checkmark"></span>
+                                </label>
+                            </form>
+                        </div>
+                        <div class="shop-sidebar-boxed">
+                            <h4>Price</h4>
+
+                            <div class="price-filter">
+                                <div id="slider-range"></div>
+                                <div class="price-slider-amount">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="color-bar">
+                            <h4>Color</h4>
+                            <div class="colors">
+                                <ul>
+                                    <li class="red"></li>
+                                    <li class="green"></li>
+                                    <li class="brown"></li>
+                                    <li class="blue"></li>
+                                    <li class="pink"></li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div class="size-bar">
+                            <h4>Size</h4>
+                            <div class="sizes">
+                                <div class="custom-radio"> <input type="radio"> XS</div>
+                                <div class="custom-radio"> <input type="radio"> S</div>
+                                <div class="custom-radio"> <input type="radio"> M</div>
+                                <div class="custom-radio"> <input type="radio"> L</div>
+                                <div class="custom-radio"> <input type="radio"> XL</div>
+                            </div>
+                        </div>
+                        <div class="shop-sidebar-boxed">
+                            <h4>Brand</h4>
+                            <form action="#!">
+                                <label class="custom-boxed">
+                                    Next
+                                    <input type="radio" checked="checked" name="radio">
+                                    <span class="checkmark"></span>
+                                </label>
+                                <label class="custom-boxed">
+                                    Adidas
+                                    <input type="radio" name="radio">
+                                    <span class="checkmark"></span>
+                                </label>
+                                <label class="custom-boxed">
+                                    Calvin Klein
+                                    <input type="radio" name="radio">
+                                    <span class="checkmark"></span>
+                                </label>
+                                <label class="custom-boxed">
+                                    Nike
+                                    <input type="radio" name="radio">
+                                    <span class="checkmark"></span>
+                                </label>
+                                <label class="custom-boxed">
+                                    Geox
+                                    <input type="radio" name="radio">
+                                    <span class="checkmark"></span>
+                                </label>
+                                <label class="custom-boxed">
+                                    River Island
+                                    <input type="radio" name="radio">
+                                    <span class="checkmark"></span>
+                                </label>
+                                <div class="clear-button">
+                                    <button class="theme-btn-one btn_sm btn-black-overlay">Clear Filter</button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-9">
+                    <div class="row">
+                        <div class="slider-item">
+                            <div class="product-card">
+                                <div class="product-image">
+                                    <img class="default-image" src="~/assets/img/home/card 7.png" alt="Product 1">
+                                    <img class="hover-image" src="~/assets/img/home/card 7.7.png"
+                                         alt="Product 1 Hover">
+
+                                    <button class="new-label">New</button>
+
+                                    <div class="heart-icon">
+                                        <i class="fa-regular fa-heart"></i>
+                                    </div>
+
+                                    <div class="hidden-icons">
+                                        <button class="icon-scanner"><i class="fas fa-expand"></i></button>
+                                        <button class="icon-arrows"><i class="fas fa-exchange-alt"></i></button>
+                                    </div>
+
+                                    <button class="add-to-cart-btn">Add To Cart</button>
+                                </div>
+                                <div class="product-details">
+                                    <h3 class="product-name">Black T-Shirt For Woman</h3>
+                                    <p class="product-price">$34.00</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="slider-item">
+                            <div class="product-card">
+                                <div class="product-image">
+                                    <img class="default-image" src="~/assets/img/home/card 8.png" alt="Product 1">
+                                    <img class="hover-image" src="~/assets/img/home/card 1.png"
+                                         alt="Product 1 Hover">
+
+                                    <button class="new-label-hot">Hot</button>
+
+                                    <div class="heart-icon">
+                                        <i class="fa-regular fa-heart"></i>
+                                    </div>
+
+                                    <div class="hidden-icons">
+                                        <button class="icon-scanner"><i class="fas fa-expand"></i></button>
+                                        <button class="icon-arrows"><i class="fas fa-exchange-alt"></i></button>
+                                    </div>
+
+
+                                    <button class="add-to-cart-btn">Add To Cart</button>
+                                </div>
+                                <div class="product-details">
+                                    <h3 class="product-name">Blue Dress For Woman</h3>
+                                    <p class="product-price">$38.00</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="slider-item">
+                            <div class="product-card">
+                                <div class="product-image">
+                                    <img class="default-image" src="~/assets/img/home/card 7.png" alt="Product 1">
+                                    <img class="hover-image" src="~/assets/img/home/card 7.7.png"
+                                         alt="Product 1 Hover">
+
+                                    <button class="new-label">New</button>
+
+                                    <div class="heart-icon">
+                                        <i class="fa-regular fa-heart"></i>
+                                    </div>
+
+                                    <div class="hidden-icons">
+                                        <button class="icon-scanner"><i class="fas fa-expand"></i></button>
+                                        <button class="icon-arrows"><i class="fas fa-exchange-alt"></i></button>
+                                    </div>
+
+                                    <button class="add-to-cart-btn">Add To Cart</button>
+                                </div>
+                                <div class="product-details">
+                                    <h3 class="product-name">Black T-Shirt For Woman</h3>
+                                    <p class="product-price">$34.00</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="slider-item">
+                            <div class="product-card">
+                                <div class="product-image">
+                                    <img class="default-image" src="~/assets/img/home/card 8.png" alt="Product 1">
+                                    <img class="hover-image" src="~/assets/img/home/card 1.png"
+                                         alt="Product 1 Hover">
+
+                                    <button class="new-label-hot">Hot</button>
+
+                                    <div class="heart-icon">
+                                        <i class="fa-regular fa-heart"></i>
+                                    </div>
+
+                                    <div class="hidden-icons">
+                                        <button class="icon-scanner"><i class="fas fa-expand"></i></button>
+                                        <button class="icon-arrows"><i class="fas fa-exchange-alt"></i></button>
+                                    </div>
+
+
+                                    <button class="add-to-cart-btn">Add To Cart</button>
+                                </div>
+                                <div class="product-details">
+                                    <h3 class="product-name">Blue Dress For Woman</h3>
+                                    <p class="product-price">$38.00</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="slider-item">
+                            <div class="product-card">
+                                <div class="product-image">
+                                    <img class="default-image" src="~/assets/img/home/card 7.png" alt="Product 1">
+                                    <img class="hover-image" src="~/assets/img/home/card 7.7.png"
+                                         alt="Product 1 Hover">
+
+                                    <button class="new-label">New</button>
+
+                                    <div class="heart-icon">
+                                        <i class="fa-regular fa-heart"></i>
+                                    </div>
+
+                                    <div class="hidden-icons">
+                                        <button class="icon-scanner"><i class="fas fa-expand"></i></button>
+                                        <button class="icon-arrows"><i class="fas fa-exchange-alt"></i></button>
+                                    </div>
+
+                                    <button class="add-to-cart-btn">Add To Cart</button>
+                                </div>
+                                <div class="product-details">
+                                    <h3 class="product-name">Black T-Shirt For Woman</h3>
+                                    <p class="product-price">$34.00</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="slider-item">
+                            <div class="product-card">
+                                <div class="product-image">
+                                    <img class="default-image" src="~/assets/img/home/card 8.png" alt="Product 1">
+                                    <img class="hover-image" src="~/assets/img/home/card 1.png"
+                                         alt="Product 1 Hover">
+
+                                    <button class="new-label-hot">Hot</button>
+
+                                    <div class="heart-icon">
+                                        <i class="fa-regular fa-heart"></i>
+                                    </div>
+
+                                    <div class="hidden-icons">
+                                        <button class="icon-scanner"><i class="fas fa-expand"></i></button>
+                                        <button class="icon-arrows"><i class="fas fa-exchange-alt"></i></button>
+                                    </div>
+
+
+                                    <button class="add-to-cart-btn">Add To Cart</button>
+                                </div>
+                                <div class="product-details">
+                                    <h3 class="product-name">Blue Dress For Woman</h3>
+                                    <p class="product-price">$38.00</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="slider-item">
+                            <div class="product-card">
+                                <div class="product-image">
+                                    <img class="default-image" src="~/assets/img/home/card 7.png" alt="Product 1">
+                                    <img class="hover-image" src="~/assets/img/home/card 7.7.png"
+                                         alt="Product 1 Hover">
+
+                                    <button class="new-label">New</button>
+
+                                    <div class="heart-icon">
+                                        <i class="fa-regular fa-heart"></i>
+                                    </div>
+
+                                    <div class="hidden-icons">
+                                        <button class="icon-scanner"><i class="fas fa-expand"></i></button>
+                                        <button class="icon-arrows"><i class="fas fa-exchange-alt"></i></button>
+                                    </div>
+
+                                    <button class="add-to-cart-btn">Add To Cart</button>
+                                </div>
+                                <div class="product-details">
+                                    <h3 class="product-name">Black T-Shirt For Woman</h3>
+                                    <p class="product-price">$34.00</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="slider-item">
+                            <div class="product-card">
+                                <div class="product-image">
+                                    <img class="default-image" src="~/assets/img/home/card 8.png" alt="Product 1">
+                                    <img class="hover-image" src="~/assets/img/home/card 1.png"
+                                         alt="Product 1 Hover">
+
+                                    <button class="new-label-hot">Hot</button>
+
+                                    <div class="heart-icon">
+                                        <i class="fa-regular fa-heart"></i>
+                                    </div>
+
+                                    <div class="hidden-icons">
+                                        <button class="icon-scanner"><i class="fas fa-expand"></i></button>
+                                        <button class="icon-arrows"><i class="fas fa-exchange-alt"></i></button>
+                                    </div>
+
+
+                                    <button class="add-to-cart-btn">Add To Cart</button>
+                                </div>
+                                <div class="product-details">
+                                    <h3 class="product-name">Blue Dress For Woman</h3>
+                                    <p class="product-price">$38.00</p>
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <div class="slider-item">
+                            <div class="product-card">
+                                <div class="product-image">
+                                    <img class="default-image" src="~/assets/img/home/card 8.png" alt="Product 1">
+                                    <img class="hover-image" src="~/assets/img/home/card 1.png"
+                                         alt="Product 1 Hover">
+
+                                    <button class="new-label-hot">Hot</button>
+
+                                    <div class="heart-icon">
+                                        <i class="fa-regular fa-heart"></i>
+                                    </div>
+
+                                    <div class="hidden-icons">
+                                        <button class="icon-scanner"><i class="fas fa-expand"></i></button>
+                                        <button class="icon-arrows"><i class="fas fa-exchange-alt"></i></button>
+                                    </div>
+
+
+                                    <button class="add-to-cart-btn">Add To Cart</button>
+                                </div>
+                                <div class="product-details">
+                                    <h3 class="product-name">Blue Dress For Woman</h3>
+                                    <p class="product-price">$38.00</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="container text-center">
+                            <ul class="pagination d-flex justify-content-center">
+                                <li class="page-item">
+                                    <a class="page-link" href="#" aria-label="Previous">«</a>
+                                </li>
+                                <li class="page-item active"><a class="page-link" href="#">1</a></li>
+                                <li class="page-item"><a class="page-link" href="#">2</a></li>
+                                <li class="page-item"><a class="page-link" href="#">3</a></li>
+                                <li class="page-item">
+                                    <a class="page-link" href="#" aria-label="Next">»</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        </div>
+    </section>
+
+
+    <section id="follow-us">
+        <div class="container-fluid">
+            <div class="follow-header">
+                <h1>Follow Us Instagram</h1>
+                <p>Mauris luctus nisi sapien tristique dignissim ornare</p>
+            </div>
+            <div class="row row-cols-xl-5">
+                <div class="col">
+                    <div class="img-box">
+                        <img src="~/assets/img/home/istagram . girl 1.png" alt="">
+                        <div class="hover-instagram">
+                        </div>
+                        <div class="click-icon">
+                            <i class="ri-instagram-line"></i>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="img-box">
+                        <img src="~/assets/img/home/instagram girl 2.png" alt="">
+                        <div class="hover-instagram">
+                        </div>
+                        <div class="click-icon">
+                            <i class="ri-instagram-line"></i>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="img-box">
+                        <img src="~/assets/img/home/instagram girl 3.png" alt="">
+                        <div class="hover-instagram">
+                        </div>
+                        <div class="click-icon">
+                            <i class="ri-instagram-line"></i>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="img-box">
+                        <img src="~/assets/img/home/instagram girl 4.png" alt="">
+                        <div class="hover-instagram">
+                        </div>
+                        <div class="click-icon">
+                            <i class="ri-instagram-line"></i>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="img-box">
+                        <img src="~/assets/img/home/instagram girl 5.png" alt="">
+                        <div class="hover-instagram">
+                        </div>
+                        <div class="click-icon">
+                            <i class="ri-instagram-line"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+</main>
+
+
+@section scripts {
+    <script src="~/assets/js/shop/shop.js"></script>
+}

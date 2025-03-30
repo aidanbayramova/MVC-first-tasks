@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\Desktop\\MVC first task\\Modern-Business\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F81649B-63FA-442C-A10A-2B81862FAB0B}|Modern-Business\\Modern-Business.csproj|c:\\users\\acer\\desktop\\mvc first task\\modern-business\\modern-business\\views\\resume\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F81649B-63FA-442C-A10A-2B81862FAB0B}|Modern-Business\\Modern-Business.csproj|solutionrelative:modern-business\\views\\resume\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F81649B-63FA-442C-A10A-2B81862FAB0B}|Modern-Business\\Modern-Business.csproj|c:\\users\\acer\\desktop\\mvc first task\\modern-business\\modern-business\\views\\projects\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F81649B-63FA-442C-A10A-2B81862FAB0B}|Modern-Business\\Modern-Business.csproj|solutionrelative:modern-business\\views\\projects\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F81649B-63FA-442C-A10A-2B81862FAB0B}|Modern-Business\\Modern-Business.csproj|c:\\users\\acer\\desktop\\mvc first task\\modern-business\\modern-business\\controllers\\resumecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F81649B-63FA-442C-A10A-2B81862FAB0B}|Modern-Business\\Modern-Business.csproj|solutionrelative:modern-business\\controllers\\resumecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F81649B-63FA-442C-A10A-2B81862FAB0B}|Modern-Business\\Modern-Business.csproj|c:\\users\\acer\\desktop\\mvc first task\\modern-business\\modern-business\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F81649B-63FA-442C-A10A-2B81862FAB0B}|Modern-Business\\Modern-Business.csproj|solutionrelative:modern-business\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F81649B-63FA-442C-A10A-2B81862FAB0B}|Modern-Business\\Modern-Business.csproj|c:\\users\\acer\\desktop\\mvc first task\\modern-business\\modern-business\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F81649B-63FA-442C-A10A-2B81862FAB0B}|Modern-Business\\Modern-Business.csproj|solutionrelative:modern-business\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F81649B-63FA-442C-A10A-2B81862FAB0B}|Modern-Business\\Modern-Business.csproj|c:\\users\\acer\\desktop\\mvc first task\\modern-business\\modern-business\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F81649B-63FA-442C-A10A-2B81862FAB0B}|Modern-Business\\Modern-Business.csproj|solutionrelative:modern-business\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F81649B-63FA-442C-A10A-2B81862FAB0B}|Modern-Business\\Modern-Business.csproj|c:\\users\\acer\\desktop\\mvc first task\\modern-business\\modern-business\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F81649B-63FA-442C-A10A-2B81862FAB0B}|Modern-Business\\Modern-Business.csproj|solutionrelative:modern-business\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F81649B-63FA-442C-A10A-2B81862FAB0B}|Modern-Business\\Modern-Business.csproj|c:\\users\\acer\\desktop\\mvc first task\\modern-business\\modern-business\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F81649B-63FA-442C-A10A-2B81862FAB0B}|Modern-Business\\Modern-Business.csproj|solutionrelative:modern-business\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F81649B-63FA-442C-A10A-2B81862FAB0B}|Modern-Business\\Modern-Business.csproj|c:\\users\\acer\\desktop\\mvc first task\\modern-business\\modern-business\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F81649B-63FA-442C-A10A-2B81862FAB0B}|Modern-Business\\Modern-Business.csproj|solutionrelative:modern-business\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F81649B-63FA-442C-A10A-2B81862FAB0B}|Modern-Business\\Modern-Business.csproj|c:\\users\\acer\\desktop\\mvc first task\\modern-business\\modern-business\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F81649B-63FA-442C-A10A-2B81862FAB0B}|Modern-Business\\Modern-Business.csproj|solutionrelative:modern-business\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC first task\\Modern-Business\\Modern-Business\\Views\\Resume\\Index.cshtml",
+              "RelativeDocumentMoniker": "Modern-Business\\Views\\Resume\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC first task\\Modern-Business\\Modern-Business\\Views\\Resume\\Index.cshtml",
+              "RelativeToolTip": "Modern-Business\\Views\\Resume\\Index.cshtml",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAJkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T17:37:24.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResumeController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC first task\\Modern-Business\\Modern-Business\\Controllers\\ResumeController.cs",
+              "RelativeDocumentMoniker": "Modern-Business\\Controllers\\ResumeController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC first task\\Modern-Business\\Modern-Business\\Controllers\\ResumeController.cs",
+              "RelativeToolTip": "Modern-Business\\Controllers\\ResumeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T17:37:17.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC first task\\Modern-Business\\Modern-Business\\Views\\Projects\\Index.cshtml",
+              "RelativeDocumentMoniker": "Modern-Business\\Views\\Projects\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC first task\\Modern-Business\\Modern-Business\\Views\\Projects\\Index.cshtml",
+              "RelativeToolTip": "Modern-Business\\Views\\Projects\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T17:35:37.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProjectsController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC first task\\Modern-Business\\Modern-Business\\Controllers\\ProjectsController.cs",
+              "RelativeDocumentMoniker": "Modern-Business\\Controllers\\ProjectsController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC first task\\Modern-Business\\Modern-Business\\Controllers\\ProjectsController.cs",
+              "RelativeToolTip": "Modern-Business\\Controllers\\ProjectsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T17:35:29.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC first task\\Modern-Business\\Modern-Business\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "Modern-Business\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC first task\\Modern-Business\\Modern-Business\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "Modern-Business\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T17:28:30.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC first task\\Modern-Business\\Modern-Business\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "Modern-Business\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC first task\\Modern-Business\\Modern-Business\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "Modern-Business\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T17:28:19.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC first task\\Modern-Business\\Modern-Business\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Modern-Business\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC first task\\Modern-Business\\Modern-Business\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Modern-Business\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T17:25:24.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC first task\\Modern-Business\\Modern-Business\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Modern-Business\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC first task\\Modern-Business\\Modern-Business\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Modern-Business\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T17:25:05.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC first task\\Modern-Business\\Modern-Business\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Modern-Business\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC first task\\Modern-Business\\Modern-Business\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Modern-Business\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T17:22:15.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\MVC first task\\Modern-Business\\Modern-Business\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Modern-Business\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\MVC first task\\Modern-Business\\Modern-Business\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Modern-Business\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T17:15:21.437Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

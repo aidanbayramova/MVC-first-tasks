@@ -1,0 +1,4 @@
+wwwroot\assets\favicon.ico
+wwwroot\assets\profile.png
+wwwroot\css\styles.css
+wwwroot\js\scripts.js

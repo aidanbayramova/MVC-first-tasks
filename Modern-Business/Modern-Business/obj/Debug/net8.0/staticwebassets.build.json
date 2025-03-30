@@ -1,0 +1,640 @@
+{
+  "Version": 1,
+  "Hash": "hIDhSZ/Iq1eH/rTnCPNtZK/dc9tcv/N4tEpoB379oFk=",
+  "Source": "Modern-Business",
+  "BasePath": "_content/Modern-Business",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Modern-Business\\wwwroot",
+      "Source": "Modern-Business",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC first task\\Modern-Business\\Modern-Business\\wwwroot\\",
+      "BasePath": "_content/Modern-Business",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC first task\\Modern-Business\\Modern-Business\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Modern-Business.styles.css",
+      "SourceId": "Modern-Business",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC first task\\Modern-Business\\Modern-Business\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/Modern-Business",
+      "RelativePath": "Modern-Business#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "bbic295jcx",
+      "Integrity": "t/1VDkOXk3Mfwen5SJayFqC1nCeKdfUOA6XNSWoMV5Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\ACER\\Desktop\\MVC first task\\Modern-Business\\Modern-Business\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Modern-Business.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC first task\\Modern-Business\\Modern-Business\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Modern-Business.bundle.scp.css",
+      "SourceId": "Modern-Business",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC first task\\Modern-Business\\Modern-Business\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/Modern-Business",
+      "RelativePath": "Modern-Business#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "bbic295jcx",
+      "Integrity": "t/1VDkOXk3Mfwen5SJayFqC1nCeKdfUOA6XNSWoMV5Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\ACER\\Desktop\\MVC first task\\Modern-Business\\Modern-Business\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Modern-Business.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC first task\\Modern-Business\\Modern-Business\\wwwroot\\assets\\favicon.ico",
+      "SourceId": "Modern-Business",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC first task\\Modern-Business\\Modern-Business\\wwwroot\\",
+      "BasePath": "_content/Modern-Business",
+      "RelativePath": "assets/favicon#[.{fingerprint}]?.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "devepoo3hg",
+      "Integrity": "ixBg8ZN2jFW8SN7ei6jam+bJP45tyulG428aiVa3Jps=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC first task\\Modern-Business\\Modern-Business\\wwwroot\\assets\\profile.png",
+      "SourceId": "Modern-Business",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC first task\\Modern-Business\\Modern-Business\\wwwroot\\",
+      "BasePath": "_content/Modern-Business",
+      "RelativePath": "assets/profile#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e9r2ozeus3",
+      "Integrity": "fiUMR6pJKn7dPj6+yKmD8saw3Gp6xvRwcc8TJn6/KT0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\profile.png"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC first task\\Modern-Business\\Modern-Business\\wwwroot\\css\\styles.css",
+      "SourceId": "Modern-Business",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC first task\\Modern-Business\\Modern-Business\\wwwroot\\",
+      "BasePath": "_content/Modern-Business",
+      "RelativePath": "css/styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vic2cuwxv0",
+      "Integrity": "GVBUC8X7GErEZD8IUllWjc4dzhAUSKrTxObHHSIwHYU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MVC first task\\Modern-Business\\Modern-Business\\wwwroot\\js\\scripts.js",
+      "SourceId": "Modern-Business",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MVC first task\\Modern-Business\\Modern-Business\\wwwroot\\",
+      "BasePath": "_content/Modern-Business",
+      "RelativePath": "js/scripts#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hmqogwygf1",
+      "Integrity": "N7MY2Z9BqvSPiafYfN6dLUvUk0iUf1DmVkr0O0VMdTc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\scripts.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "assets/favicon.devepoo3hg.ico",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC first task\\Modern-Business\\Modern-Business\\wwwroot\\assets\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23462"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ixBg8ZN2jFW8SN7ei6jam+bJP45tyulG428aiVa3Jps=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:06:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "devepoo3hg"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ixBg8ZN2jFW8SN7ei6jam+bJP45tyulG428aiVa3Jps="
+        }
+      ]
+    },
+    {
+      "Route": "assets/favicon.ico",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC first task\\Modern-Business\\Modern-Business\\wwwroot\\assets\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23462"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ixBg8ZN2jFW8SN7ei6jam+bJP45tyulG428aiVa3Jps=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:06:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ixBg8ZN2jFW8SN7ei6jam+bJP45tyulG428aiVa3Jps="
+        }
+      ]
+    },
+    {
+      "Route": "assets/profile.e9r2ozeus3.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC first task\\Modern-Business\\Modern-Business\\wwwroot\\assets\\profile.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1033963"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fiUMR6pJKn7dPj6+yKmD8saw3Gp6xvRwcc8TJn6/KT0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:06:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e9r2ozeus3"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/profile.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fiUMR6pJKn7dPj6+yKmD8saw3Gp6xvRwcc8TJn6/KT0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/profile.png",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC first task\\Modern-Business\\Modern-Business\\wwwroot\\assets\\profile.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1033963"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fiUMR6pJKn7dPj6+yKmD8saw3Gp6xvRwcc8TJn6/KT0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:06:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fiUMR6pJKn7dPj6+yKmD8saw3Gp6xvRwcc8TJn6/KT0="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.css",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC first task\\Modern-Business\\Modern-Business\\wwwroot\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "252666"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GVBUC8X7GErEZD8IUllWjc4dzhAUSKrTxObHHSIwHYU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:06:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GVBUC8X7GErEZD8IUllWjc4dzhAUSKrTxObHHSIwHYU="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.vic2cuwxv0.css",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC first task\\Modern-Business\\Modern-Business\\wwwroot\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "252666"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GVBUC8X7GErEZD8IUllWjc4dzhAUSKrTxObHHSIwHYU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:06:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vic2cuwxv0"
+        },
+        {
+          "Name": "label",
+          "Value": "css/styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GVBUC8X7GErEZD8IUllWjc4dzhAUSKrTxObHHSIwHYU="
+        }
+      ]
+    },
+    {
+      "Route": "js/scripts.hmqogwygf1.js",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC first task\\Modern-Business\\Modern-Business\\wwwroot\\js\\scripts.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "325"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N7MY2Z9BqvSPiafYfN6dLUvUk0iUf1DmVkr0O0VMdTc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:06:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hmqogwygf1"
+        },
+        {
+          "Name": "label",
+          "Value": "js/scripts.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-N7MY2Z9BqvSPiafYfN6dLUvUk0iUf1DmVkr0O0VMdTc="
+        }
+      ]
+    },
+    {
+      "Route": "js/scripts.js",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC first task\\Modern-Business\\Modern-Business\\wwwroot\\js\\scripts.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "325"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N7MY2Z9BqvSPiafYfN6dLUvUk0iUf1DmVkr0O0VMdTc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Mar 2023 22:06:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-N7MY2Z9BqvSPiafYfN6dLUvUk0iUf1DmVkr0O0VMdTc="
+        }
+      ]
+    },
+    {
+      "Route": "Modern-Business.bbic295jcx.bundle.scp.css",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC first task\\Modern-Business\\Modern-Business\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Modern-Business.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1133"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"t/1VDkOXk3Mfwen5SJayFqC1nCeKdfUOA6XNSWoMV5Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 17:25:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bbic295jcx"
+        },
+        {
+          "Name": "label",
+          "Value": "Modern-Business.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-t/1VDkOXk3Mfwen5SJayFqC1nCeKdfUOA6XNSWoMV5Y="
+        }
+      ]
+    },
+    {
+      "Route": "Modern-Business.bbic295jcx.styles.css",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC first task\\Modern-Business\\Modern-Business\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Modern-Business.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1133"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"t/1VDkOXk3Mfwen5SJayFqC1nCeKdfUOA6XNSWoMV5Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 17:25:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bbic295jcx"
+        },
+        {
+          "Name": "label",
+          "Value": "Modern-Business.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-t/1VDkOXk3Mfwen5SJayFqC1nCeKdfUOA6XNSWoMV5Y="
+        }
+      ]
+    },
+    {
+      "Route": "Modern-Business.bundle.scp.css",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC first task\\Modern-Business\\Modern-Business\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Modern-Business.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1133"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"t/1VDkOXk3Mfwen5SJayFqC1nCeKdfUOA6XNSWoMV5Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 17:25:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-t/1VDkOXk3Mfwen5SJayFqC1nCeKdfUOA6XNSWoMV5Y="
+        }
+      ]
+    },
+    {
+      "Route": "Modern-Business.styles.css",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MVC first task\\Modern-Business\\Modern-Business\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Modern-Business.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1133"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"t/1VDkOXk3Mfwen5SJayFqC1nCeKdfUOA6XNSWoMV5Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 17:25:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-t/1VDkOXk3Mfwen5SJayFqC1nCeKdfUOA6XNSWoMV5Y="
+        }
+      ]
+    }
+  ]
+}

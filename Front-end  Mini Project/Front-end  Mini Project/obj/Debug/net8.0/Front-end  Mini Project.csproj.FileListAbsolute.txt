@@ -1,0 +1,35 @@
+C:\Users\ACER\Desktop\MVC first task\Front-end  Mini Project\Front-end  Mini Project\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ACER\Desktop\MVC first task\Front-end  Mini Project\Front-end  Mini Project\bin\Debug\net8.0\appsettings.json
+C:\Users\ACER\Desktop\MVC first task\Front-end  Mini Project\Front-end  Mini Project\bin\Debug\net8.0\Front-end  Mini Project.staticwebassets.runtime.json
+C:\Users\ACER\Desktop\MVC first task\Front-end  Mini Project\Front-end  Mini Project\bin\Debug\net8.0\Front-end  Mini Project.staticwebassets.endpoints.json
+C:\Users\ACER\Desktop\MVC first task\Front-end  Mini Project\Front-end  Mini Project\bin\Debug\net8.0\Front-end  Mini Project.exe
+C:\Users\ACER\Desktop\MVC first task\Front-end  Mini Project\Front-end  Mini Project\bin\Debug\net8.0\Front-end  Mini Project.deps.json
+C:\Users\ACER\Desktop\MVC first task\Front-end  Mini Project\Front-end  Mini Project\bin\Debug\net8.0\Front-end  Mini Project.runtimeconfig.json
+C:\Users\ACER\Desktop\MVC first task\Front-end  Mini Project\Front-end  Mini Project\bin\Debug\net8.0\Front-end  Mini Project.dll
+C:\Users\ACER\Desktop\MVC first task\Front-end  Mini Project\Front-end  Mini Project\bin\Debug\net8.0\Front-end  Mini Project.pdb
+C:\Users\ACER\Desktop\MVC first task\Front-end  Mini Project\Front-end  Mini Project\obj\Debug\net8.0\Front-end  Mini Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\MVC first task\Front-end  Mini Project\Front-end  Mini Project\obj\Debug\net8.0\Front-end  Mini Project.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\MVC first task\Front-end  Mini Project\Front-end  Mini Project\obj\Debug\net8.0\Front-end  Mini Project.AssemblyInfo.cs
+C:\Users\ACER\Desktop\MVC first task\Front-end  Mini Project\Front-end  Mini Project\obj\Debug\net8.0\Front-end  Mini Project.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\MVC first task\Front-end  Mini Project\Front-end  Mini Project\obj\Debug\net8.0\Front-end  Mini Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ACER\Desktop\MVC first task\Front-end  Mini Project\Front-end  Mini Project\obj\Debug\net8.0\Front-end  Mini Project.RazorAssemblyInfo.cache
+C:\Users\ACER\Desktop\MVC first task\Front-end  Mini Project\Front-end  Mini Project\obj\Debug\net8.0\Front-end  Mini Project.RazorAssemblyInfo.cs
+C:\Users\ACER\Desktop\MVC first task\Front-end  Mini Project\Front-end  Mini Project\obj\Debug\net8.0\Front-end  Mini Project.sourcelink.json
+C:\Users\ACER\Desktop\MVC first task\Front-end  Mini Project\Front-end  Mini Project\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ACER\Desktop\MVC first task\Front-end  Mini Project\Front-end  Mini Project\obj\Debug\net8.0\scopedcss\bundle\Front-end  Mini Project.styles.css
+C:\Users\ACER\Desktop\MVC first task\Front-end  Mini Project\Front-end  Mini Project\obj\Debug\net8.0\scopedcss\projectbundle\Front-end  Mini Project.bundle.scp.css
+C:\Users\ACER\Desktop\MVC first task\Front-end  Mini Project\Front-end  Mini Project\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ACER\Desktop\MVC first task\Front-end  Mini Project\Front-end  Mini Project\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ACER\Desktop\MVC first task\Front-end  Mini Project\Front-end  Mini Project\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\ACER\Desktop\MVC first task\Front-end  Mini Project\Front-end  Mini Project\obj\Debug\net8.0\staticwebassets\msbuild.Front-end  Mini Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ACER\Desktop\MVC first task\Front-end  Mini Project\Front-end  Mini Project\obj\Debug\net8.0\staticwebassets\msbuild.Front-end  Mini Project.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\ACER\Desktop\MVC first task\Front-end  Mini Project\Front-end  Mini Project\obj\Debug\net8.0\staticwebassets\msbuild.build.Front-end  Mini Project.props
+C:\Users\ACER\Desktop\MVC first task\Front-end  Mini Project\Front-end  Mini Project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Front-end  Mini Project.props
+C:\Users\ACER\Desktop\MVC first task\Front-end  Mini Project\Front-end  Mini Project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Front-end  Mini Project.props
+C:\Users\ACER\Desktop\MVC first task\Front-end  Mini Project\Front-end  Mini Project\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ACER\Desktop\MVC first task\Front-end  Mini Project\Front-end  Mini Project\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\ACER\Desktop\MVC first task\Front-end  Mini Project\Front-end  Mini Project\obj\Debug\net8.0\Front-end  Mini Project.dll
+C:\Users\ACER\Desktop\MVC first task\Front-end  Mini Project\Front-end  Mini Project\obj\Debug\net8.0\refint\Front-end  Mini Project.dll
+C:\Users\ACER\Desktop\MVC first task\Front-end  Mini Project\Front-end  Mini Project\obj\Debug\net8.0\Front-end  Mini Project.pdb
+C:\Users\ACER\Desktop\MVC first task\Front-end  Mini Project\Front-end  Mini Project\obj\Debug\net8.0\Front-end  Mini Project.genruntimeconfig.cache
+C:\Users\ACER\Desktop\MVC first task\Front-end  Mini Project\Front-end  Mini Project\obj\Debug\net8.0\ref\Front-end  Mini Project.dll
